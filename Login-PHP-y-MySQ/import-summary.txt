@@ -1,0 +1,111 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Login-en-Android-usando-PHP-y-MySQL-master\
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\.name
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\compiler.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\copyright\
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\copyright\profiles_settings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\encodings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\misc.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\modules.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\scopes\
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\scopes\scope_settings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\vcs.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\.idea\workspace.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\build.gradle
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\AndroidManifest.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\.name
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\compiler.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\copyright\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\copyright\profiles_settings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\encodings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\misc.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\modules.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\scopes\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\scopes\scope_settings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\vcs.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\.idea\workspace.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\Login-en-Android-usando-PHP-y-MySQL-master.iml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\test\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\test\Droidlogin\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\test\Droidlogin\HiScreen.java
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\test\Droidlogin\Login.java
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\test\Droidlogin\library\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\java\test\Droidlogin\library\Httppostaux.java
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-hdpi\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-hdpi\icon.png
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-ldpi\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-ldpi\android.png
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-ldpi\edittext_rounded_corners.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-ldpi\icon.png
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-mdpi\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\drawable-mdpi\icon.png
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\layout-land\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\layout-land\lay_screen.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\layout-land\main.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\layout-port\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\layout-port\lay_screen.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\layout-port\main.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\values\
+* Login-en-Android-usando-PHP-y-MySQL-master\app\src\main\res\values\strings.xml
+* Login-en-Android-usando-PHP-y-MySQL-master\build.gradle
+* Login-en-Android-usando-PHP-y-MySQL-master\gradle\
+* Login-en-Android-usando-PHP-y-MySQL-master\gradle\wrapper\
+* Login-en-Android-usando-PHP-y-MySQL-master\gradle\wrapper\gradle-wrapper.jar
+* Login-en-Android-usando-PHP-y-MySQL-master\gradle\wrapper\gradle-wrapper.properties
+* Login-en-Android-usando-PHP-y-MySQL-master\gradlew
+* Login-en-Android-usando-PHP-y-MySQL-master\gradlew.bat
+* Login-en-Android-usando-PHP-y-MySQL-master\local.properties
+* Login-en-Android-usando-PHP-y-MySQL-master\settings.gradle
+* README.md
+* default.properties
+* droidlogin\
+* droidlogin\README.TXT
+* droidlogin\acces.php
+* droidlogin\adduser.html
+* droidlogin\adduser.php
+* droidlogin\androidarg.png
+* droidlogin\config.php
+* droidlogin\connectbd.php
+* droidlogin\funciones_bd.php
+* droidlogin\login.html
+* droidloginweb.zip
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
